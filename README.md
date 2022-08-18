@@ -1,4 +1,4 @@
-<h1>Hi, I'm Silvanus! <br/><a href="https://github.com/Silvokyda">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Silvanus! <br/><a href="https://github.com/Silvokyda">Programmer</a>, <a href="https://www.linkedin.com/in/silvanus-oketch-273847240/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -60,7 +60,7 @@
 
 [instagram]: https://www.instagram.com/joshmadakor/
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/silvanus-oketch-273847240/
 
 <!--
 
